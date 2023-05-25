@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Hacer doble clic en el archivo index.html
 
-Template Name: SAV
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Listo ya puede navegar por el prototipo de sistema de alquiler de vehículos (SAV)
